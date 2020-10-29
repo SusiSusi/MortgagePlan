@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1540f3f6-811b-4e4f-a0ad-f697e2162592" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MortagePlan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MortgagePlan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MortagePlan-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utility/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utility/FileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utility/MortgageFormula.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utility/MortgageFormula.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CustomerServiceTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/MortgageFormulaTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CustomerServiceTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-MortgageFormulaTest.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +169,7 @@
       <updated>1603892566685</updated>
       <workItem from="1603892570341" duration="244000" />
       <workItem from="1603892991329" duration="15951000" />
-      <workItem from="1603952184603" duration="23311000" />
+      <workItem from="1603952184603" duration="24299000" />
     </task>
     <servers />
   </component>
@@ -204,22 +189,22 @@
       <screen x="61" y="24" width="1305" height="744" />
     </state>
     <state x="378" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/61.24.1305.744@61.24.1305.744" timestamp="1603961490710" />
-    <state width="1259" height="193" key="GridCell.Tab.0.bottom" timestamp="1603975160727">
+    <state width="1259" height="193" key="GridCell.Tab.0.bottom" timestamp="1603978924593">
       <screen x="61" y="24" width="1305" height="744" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.bottom/61.24.1305.744@61.24.1305.744" timestamp="1603975160727" />
-    <state width="1259" height="193" key="GridCell.Tab.0.center" timestamp="1603975160726">
+    <state width="1259" height="193" key="GridCell.Tab.0.bottom/61.24.1305.744@61.24.1305.744" timestamp="1603978924593" />
+    <state width="1259" height="193" key="GridCell.Tab.0.center" timestamp="1603978924591">
       <screen x="61" y="24" width="1305" height="744" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.center/61.24.1305.744@61.24.1305.744" timestamp="1603975160726" />
-    <state width="1259" height="193" key="GridCell.Tab.0.left" timestamp="1603975160725">
+    <state width="1259" height="193" key="GridCell.Tab.0.center/61.24.1305.744@61.24.1305.744" timestamp="1603978924591" />
+    <state width="1259" height="193" key="GridCell.Tab.0.left" timestamp="1603978924589">
       <screen x="61" y="24" width="1305" height="744" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.left/61.24.1305.744@61.24.1305.744" timestamp="1603975160725" />
-    <state width="1259" height="193" key="GridCell.Tab.0.right" timestamp="1603975160727">
+    <state width="1259" height="193" key="GridCell.Tab.0.left/61.24.1305.744@61.24.1305.744" timestamp="1603978924589" />
+    <state width="1259" height="193" key="GridCell.Tab.0.right" timestamp="1603978924592">
       <screen x="61" y="24" width="1305" height="744" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.right/61.24.1305.744@61.24.1305.744" timestamp="1603975160727" />
+    <state width="1259" height="193" key="GridCell.Tab.0.right/61.24.1305.744@61.24.1305.744" timestamp="1603978924592" />
     <state width="1259" height="240" key="GridCell.Tab.1.bottom" timestamp="1603963226265">
       <screen x="61" y="24" width="1305" height="744" />
     </state>

@@ -53,7 +53,7 @@ public class MortgagePlanTest {
     public void countFixedMonthlyPaymentTest() {
         Customer customer = this.instance.getCustomerService().getCustomerRepository().getCustomers().get(0);
         assertEquals(customer.getFixedMonthlyPayment(), 0,0);
-        this.instance.countMortgageForCustomer();
+        this.instance.countMortgageForCustomers();
         assertEquals(customer.getFixedMonthlyPayment(), 62.86631476623255,0);
     }
 
@@ -61,7 +61,7 @@ public class MortgagePlanTest {
     public void countNumberOfPaymentsTest() {
         Customer customer = this.instance.getCustomerService().getCustomerRepository().getCustomers().get(1);
         assertEquals(customer.getNumberOfPayments(), 0);
-        this.instance.countMortgageForCustomer();
+        this.instance.countMortgageForCustomers();
         assertEquals(customer.getNumberOfPayments(), 24);
     }
 }

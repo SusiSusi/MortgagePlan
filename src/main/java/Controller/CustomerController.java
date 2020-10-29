@@ -24,7 +24,7 @@ public class CustomerController {
         this.customerService.createCustomers(fileData);
     }
 
-    public void countMortgageForCustomer() {
+    public void countMortgageForCustomers() {
         MortgageFormula mortgage = new MortgageFormula();
         mortgage.count(this.customerService.getCustomerRepository());
     }

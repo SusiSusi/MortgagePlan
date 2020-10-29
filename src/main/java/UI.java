@@ -9,7 +9,7 @@ public class UI {
 
     public void start() {
         this.controller.setCustomers("/prospects.txt");
-        this.controller.countMortgageForCustomer();
+        this.controller.countMortgageForCustomers();
         System.out.println(this.controller.print());
     }
 }
